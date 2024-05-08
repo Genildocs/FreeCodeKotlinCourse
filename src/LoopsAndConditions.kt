@@ -27,7 +27,7 @@ fun main() {
     }
 
     // when é semelhante ao switch case
-    var x = 0
+    var x = 2
     when(x){
         1 -> print("x == 1")
         2 -> print("x == 2")
